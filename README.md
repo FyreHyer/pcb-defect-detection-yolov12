@@ -41,4 +41,4 @@ Preprocessing parameters were tuned via grid search:
 ## Author
 
 Wan Muhammad Afif — Computer Engineering, UTeM (2026)
-[Portfolio]([https://Fyrehyer.github.io](https://github.com/FyreHyer)) · [LinkedIn](www.linkedin.com/in/fyrehyer)
+[Portfolio]((https://github.com/FyreHyer)) · [LinkedIn](www.linkedin.com/in/fyrehyer)
